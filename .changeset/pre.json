@@ -27,12 +27,15 @@
   "changesets": [
     "fix-password-reset-callback-operation-id",
     "honest-regions-jam",
+    "oauth-provider-at-hash",
     "pr-8926",
     "pr-9032",
     "pr-9084",
     "private-key-jwt",
     "saml-response-validation-hardening",
     "sso-saml-hardening",
+    "sso-saml-model-split",
+    "sso-upgrade-samlify",
     "two-factor-otp-enable"
   ]
 }
